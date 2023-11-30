@@ -133,6 +133,7 @@ p {
 display: flex;
 justify-content: space-evenly;
 /* border: #FFFFFF 2px solid; */
+padding: 10px 300px 30px 300px;
 }
 
 
@@ -140,6 +141,7 @@ justify-content: space-evenly;
     display: flex;
     justify-content: space-evenly;
     /* border: #FFFFFF 2px solid; */
+    padding: 10px 300px 30px 300px;
 }
 
 
